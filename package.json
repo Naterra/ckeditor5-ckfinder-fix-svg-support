@@ -20,10 +20,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@ckeditor/ckeditor5-ckfinder/-/ckeditor5-ckfinder-22.0.0.tgz",
-  "_shasum": "9c1cfb8f3022b9746446545c774d495edb2d05df",
-  "_spec": "@ckeditor/ckeditor5-ckfinder@^22.0.0",
-  "_where": "/Users/nataliiabaikina/PhpstormProjects/instantparcels.com",
   "author": {
     "name": "CKSource",
     "url": "http://cksource.com/"
@@ -40,7 +36,7 @@
     "@ckeditor/ckeditor5-ui": "^22.0.0"
   },
   "deprecated": false,
-  "description": "CKFinder integration for CKEditor 5.",
+  "description": "CKFinder integration for CKEditor 5. SVG Support",
   "devDependencies": {
     "@ckeditor/ckeditor5-clipboard": "^22.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^22.0.0",
@@ -66,7 +62,7 @@
     "ckeditor5-plugin"
   ],
   "license": "GPL-2.0-or-later",
-  "name": "@ckeditor/ckeditor5-ckfinder",
+  "name": "ckeditor5-ckfinder-fix-svg-support",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckeditor/ckeditor5.git",
