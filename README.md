@@ -53,3 +53,6 @@ import CKFinder from 'ckeditor5-ckfinder-fix-svg-support/src/ckfinder';
     }}
 />
 ```
+
+## Related Issues
+- https://github.com/ckeditor/ckeditor5/issues/5707
