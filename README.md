@@ -23,4 +23,16 @@ import CKFinder from '../../ckeditor5-ckfinder/src/ckfinder';
 ```
 
 ### Installation
-Download this repo and place somewhere in your project.
+1.Download this repo and place somewhere in your project.
+
+2.Install as NPM module
+```
+npm install Naterra/ckeditor5-ckfinder-fix-svg-support.git
+```
+
+  
+edit your component
+```
+//CKEditor.js component file
+import CKFinder from 'ckeditor5-ckfinder-fix-svg-support/src/ckfinder';
+```
